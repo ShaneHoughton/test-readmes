@@ -9,3 +9,6 @@ Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute i
 ### Future Outlook
 
 Pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed perspiciatis unde omnis iste natus.
+
+here is an image:
+![image](../images/profile.png)
