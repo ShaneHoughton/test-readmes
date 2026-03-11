@@ -1,3 +1,1 @@
-# Development stuff
-
-- i code stuff la dee dah
+- [i code stuff la dee dah](https://github.com/ShaneHoughton)
