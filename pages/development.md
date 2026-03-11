@@ -14,4 +14,4 @@
 - Generates a strava heatmap when ever I upload an activity to strava via webhook
 - Iterates my activities from the year and displays them like the github commit heatmap
 
-![strava](https://github.com/ShaneHoughton/strava-heatmap/blob/main/test.svg)
+![strava](https://raw.githubusercontent.com/ShaneHoughton/strava-heatmap/main/test.svg)
